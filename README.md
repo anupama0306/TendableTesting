@@ -1,3 +1,6 @@
+
+# TendableTesting
+
 **TDD TestNG Project**
 
 **SELENIUM-TestNG-JAVA-MAVEN**
@@ -44,5 +47,3 @@ Go to your project directory from commandprompt and hit following commands:
 mvn clean install
 
 mvn clean install -Dbrowser="chrome"(to use any other browser)
-
-# TendableTesting
