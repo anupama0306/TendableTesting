@@ -10,6 +10,7 @@ All test data is stored in config.properties file.
 
 
 **INSTALLATION & PRE-REQUISITES**
+
 1.JDK(17)
 
 2.Maven
@@ -22,7 +23,7 @@ All test data is stored in config.properties file.
 
   TestNG
 
-**WHAT ALL IMPLEMENTED IN FRAMEWORK**
+**IMPLEMENTIONS COVERED IN FRAMEWORK**
 
 1. Page Object Design Pattern.
 2. TestNG features for executing test cases
@@ -40,7 +41,7 @@ Import the project using eclipse or Intellij
 
 **RUNNING THE TESTS**
 
-Go to your project directory from commandprompt and hit following commands:
+Go to your project directory from command prompt and hit following commands:
 
 mvn clean install
 
