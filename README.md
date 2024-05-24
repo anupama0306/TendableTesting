@@ -1,14 +1,12 @@
 
-# TendableTesting
-
-**TDD TestNG Project**
+# Tendable Testing Challanege Solution
 
 **SELENIUM-TestNG-JAVA-MAVEN**
 
-This repository contains solution for the Tendable Testing challenge using selenium-testNG-java framework with TestNG and JAVA.
-This Project showcase automation script development and utilize various reports such as default testng reports and allure reports.
+This repository contains solution for the Tendable Testing challenge using selenium-testNG-java framework based on POM design.
+This project showcase automation script development and utilize various reports such as default testng reports and extent reports.
 It use POM based framework which separates all page related elements from business logic.
-All test data is stored in Config.properties file.
+All test data is stored in config.properties file.
 
 
 **INSTALLATION & PRE-REQUISITES**
@@ -30,7 +28,7 @@ All test data is stored in Config.properties file.
 2. TestNG features for executing test cases
 3. Utility functions to handle Driver methods.
 4. Utility functions to handle WebElements
-5. Allure reports for test execution details.
+5. Extent reports for test execution details.
 6. Maven is used to build the project and handling dependencies
 
 
